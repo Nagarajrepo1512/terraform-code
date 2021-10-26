@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.efsavage</groupId>
 	<artifactId>hello-world-war</artifactId>
-	<version>8.0.0</version>
+	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
@@ -28,13 +28,13 @@
 	<distributionManagement>
         <repository>
         <id>nexus</id>
-        <name>sameer</name>
-        <url>http://3.85.13.168:8081/repository/hello/</url>
+        <name>Nexus</name>
+        <url>http://3.144.195.6:8081/repository/MavenRepo/</url>
         </repository>
         <snapshotRepository>
         <id>snap</id>
         <name>snap</name>
-        <url>http://3.85.13.168:8081/repository/hello-snapshot/</url>
+        <url>http://3.144.195.6:8081/repository/MavenRepo/</url>
         </snapshotRepository>
         </distributionManagement>
 	</project>
