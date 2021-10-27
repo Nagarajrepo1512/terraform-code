@@ -29,7 +29,7 @@
         <repository>
         <id>nexus</id>
         <name>Nexus</name>
-        <url>http://18.218.176.136:8081/repository/MavenRepo/</url>
+        <url>http://18.218.176.136:8081/repository/MavenRepo</url>
         </repository>
         <snapshotRepository>
         <id>snap</id>
