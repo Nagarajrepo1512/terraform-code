@@ -28,7 +28,7 @@
 	<distributionManagement>
         <repository>
         <id>nexus</id>
-        <name>admin</name>
+        <name>MavenRepo</name>
         <url>http://18.218.176.136:8081/repository/MavenRepo/</url>
         </repository>
         <snapshotRepository>
